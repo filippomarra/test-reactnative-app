@@ -28,4 +28,4 @@ To install and execute the app you can laungh one of the following commands:
 - `/app/interfaces` - Contains the interfaces of the app;
 - `/app/models` - Contains the model of the objects retrieved from the APIs;
 - `/app/screens` - Contains the screens of the app;
-- `/app/styles` - Contains the styling of the app;
+- `/app/styles` - Contains the styling of the app.
