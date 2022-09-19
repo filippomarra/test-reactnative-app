@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryScrollView component tests renders correctly with default props 1`] = `
+<RCTScrollView>
+  <View>
+    <ActivityIndicator
+      size="large"
+      style={
+        Object {
+          "paddingTop": 15,
+        }
+      }
+      testID="loader"
+    />
+  </View>
+</RCTScrollView>
+`;
