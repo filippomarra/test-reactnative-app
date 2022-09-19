@@ -4,7 +4,7 @@ In this app there is a sorting mechanism which is enabled by a button in the nav
 
 ## Installation
 
-To install and execute the app you can laungh one of the following commands:
+To install and execute the app you can launch one of the following commands:
 
 ### Run on Android
 
@@ -24,7 +24,7 @@ To install and execute the app you can laungh one of the following commands:
 - `/app/api` - Contains the API functions;
 - `/app/assets` - Contains the assets of the app (in this case only the fonts);
 - `/app/components` - Contains the React Native components rendered in the app;
-- `/app/constants` - Contains the contants used in the app;
+- `/app/constants` - Contains the constants used in the app;
 - `/app/interfaces` - Contains the interfaces of the app;
 - `/app/models` - Contains the model of the objects retrieved from the APIs;
 - `/app/screens` - Contains the screens of the app;
