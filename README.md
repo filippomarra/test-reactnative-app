@@ -1,4 +1,4 @@
-# test-pagopa-app
+# test-reactnative-app
 Sample React Native App implemented for hiring challenge that read an array from an API and display it in an organized way.\
 In this app there is a sorting mechanism which is enabled by a button in the navbar.
 
